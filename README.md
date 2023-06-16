@@ -1,4 +1,4 @@
-# ApiRest-Imc
+# API Rest de cálculo do IMC
 Projeto Básico de uma API Rest
 
 Projeto realizado no curso de API REST do canal Gotas de Tecnologia no YouTube.
